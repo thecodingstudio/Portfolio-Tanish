@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Portfolio-Tanish/static/css/main.3c6df94b.css",
+    "main.js": "/Portfolio-Tanish/static/js/main.1e459e19.js",
+    "static/js/787.b9817c22.chunk.js": "/Portfolio-Tanish/static/js/787.b9817c22.chunk.js",
+    "static/media/t9.jpg": "/Portfolio-Tanish/static/media/t9.0680756451742245ef98.jpg",
+    "static/media/tResume.pdf": "/Portfolio-Tanish/static/media/tResume.6cb4469a02b097ef90f0.pdf",
+    "static/media/thumbup.png": "/Portfolio-Tanish/static/media/thumbup.e06790ba656f0397cbe5.png",
+    "static/media/crown.png": "/Portfolio-Tanish/static/media/crown.dbe416beae9b49b842ab.png",
+    "index.html": "/Portfolio-Tanish/index.html",
+    "main.3c6df94b.css.map": "/Portfolio-Tanish/static/css/main.3c6df94b.css.map",
+    "main.1e459e19.js.map": "/Portfolio-Tanish/static/js/main.1e459e19.js.map",
+    "787.b9817c22.chunk.js.map": "/Portfolio-Tanish/static/js/787.b9817c22.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c6df94b.css",
+    "static/js/main.1e459e19.js"
+  ]
+}

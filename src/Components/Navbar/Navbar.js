@@ -10,9 +10,7 @@ const Navbar = () => {
     return (
         <div className="n-wrapper" id="Navbar">
             <div className="n-left">
-                <a href="/">
-                    <img src={Port} alt="" />
-                </a>
+                <img src={Port} alt="" />
                 <div className="n-name">Tanish Jain</div>
             </div>
             <div className="n-right">
